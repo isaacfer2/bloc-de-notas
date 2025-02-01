@@ -73,5 +73,3 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 ```
-
-Puedes ajustar y expandir esta plantilla según sea necesario para tu proyecto.
