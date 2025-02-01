@@ -1,4 +1,3 @@
-```markdown
 # Bloc de Notas
 
 Este es un sencillo gestor de notas escrito en Python que permite agregar, leer, buscar y eliminar notas.
